@@ -1,1 +1,1 @@
-# mongojack-tutorial
+# MongoJack Tutorial
