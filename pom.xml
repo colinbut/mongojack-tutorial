@@ -8,12 +8,16 @@
     <name>mongojack-tutorial</name>
     <url>http://maven.apache.org</url>
 
+    <properties>
+        <mongojack.version>2.7.0</mongojack.version>
+    </properties>
+
     <dependencies>
         <dependency>
             <groupId>org.mongojack</groupId>
             <artifactId>mongojack</artifactId>
-            <version>2.7.0</version>
+            <version>${mongojack.version}</version>
         </dependency>
     </dependencies>
-    
+
 </project>
